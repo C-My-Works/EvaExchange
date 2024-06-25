@@ -1,0 +1,6 @@
+@EvaExchange_HostAddress = http://localhost:5199
+
+GET {{EvaExchange_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
